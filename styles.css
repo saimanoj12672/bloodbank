@@ -1,0 +1,62 @@
+h2
+{
+	color: #FF0000;
+}
+body
+{
+	background-image: url('blood.jpg');
+}
+.xyz
+{
+	position:absolute;
+    top: 55%;
+    left: 51%;
+    width:19em;
+    height:14em;
+    margin-top: -9em;
+    margin-left: -15em; 
+    border: 1px solid black;
+    background-color: lightblue;
+}
+.container 
+{
+	position:absolute;
+    top: 53%;
+    left: 50%;
+    width:20em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -15em; 
+    border: 1px solid #ccc;
+    background-color: #D3E4CD;
+}
+.done
+{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    width:20em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -15em; 
+    border: 1px solid #ccc;
+    background-color: #D3E4CD;
+
+}
+.c
+{
+    text-align: center;
+}
+.rh1
+        {
+                font-family: "Lucida Console", "Courier New", monospace;
+        }
+.abc
+{
+    top: 55%;
+    left: 51%;
+    width:31em;
+    height:15em;
+    margin-top: 20em;
+    margin-left: 30em; 
+}
