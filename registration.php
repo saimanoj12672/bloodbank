@@ -4,7 +4,7 @@
   <title>Registration</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body class="guru">
+<body class="manoj">
   <div class="container">
     <center>
       <h2>REGISTER</h2>
