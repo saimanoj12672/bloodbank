@@ -7,7 +7,6 @@
 </head>
 <body>
     <div class="has-bg-img">
-        <img class="bg-img" src="blood.jpg" alt="">
         <center>
             <form action="server.php" method="post">
                 <h2>LOGIN</h2>
